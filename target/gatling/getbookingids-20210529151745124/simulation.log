@@ -1,0 +1,4 @@
+RUN	simulations.GETBookingIDs	getbookingids	1622301465124	 	3.6.0
+USER	get booking ids	START	1622301468237
+REQUEST		get booking ids request	1622301468276	1622301472296	OK	 
+USER	get booking ids	END	1622301472340

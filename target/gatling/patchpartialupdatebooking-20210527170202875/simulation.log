@@ -1,0 +1,31 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622134922875	 	3.6.0
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134928965
+USER	post auth create token scenario	START	1622134925887
+USER	post auth create token scenario	START	1622134928968
+USER	post auth create token scenario	START	1622134928965
+REQUEST		create auth token request	1622134926003	1622134930057	KO	status.find.is(200), but actually found 403
+REQUEST		create auth token request	1622134926005	1622134930057	KO	status.find.is(200), but actually found 403
+REQUEST		create auth token request	1622134926003	1622134930057	KO	status.find.is(200), but actually found 403
+REQUEST		create auth token request	1622134928968	1622134930057	KO	status.find.is(200), but actually found 403
+REQUEST		create auth token request	1622134926005	1622134930059	KO	status.find.is(200), but actually found 403
+REQUEST		create auth token request	1622134926002	1622134930058	KO	status.find.is(200), but actually found 403
+USER	post auth create token scenario	END	1622134930134
+USER	post auth create token scenario	END	1622134930134
+USER	post auth create token scenario	END	1622134930136
+USER	post auth create token scenario	END	1622134930136
+USER	post auth create token scenario	END	1622134930136
+REQUEST		create auth token request	1622134926005	1622134930137	KO	status.find.is(200), but actually found 403
+USER	post auth create token scenario	END	1622134930139
+USER	post auth create token scenario	END	1622134930139
+REQUEST		create auth token request	1622134928968	1622134930138	KO	status.find.is(200), but actually found 403
+USER	post auth create token scenario	END	1622134930143
+REQUEST		create auth token request	1622134926006	1622134930460	KO	status.find.is(200), but actually found 403
+USER	post auth create token scenario	END	1622134930462
+REQUEST		create auth token request	1622134928966	1622134930492	KO	status.find.is(200), but actually found 403
+USER	post auth create token scenario	END	1622134930494

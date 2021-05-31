@@ -1,0 +1,10 @@
+{
+  "simulation": "POSTAuthCreateToken",
+  "simulationId": "postauthcreatetoken",
+  "start": 1622046767495,
+  "description": "",
+  "scenarios": ["post auth create token scenario"],
+  "assertions": [
+
+  ]
+}

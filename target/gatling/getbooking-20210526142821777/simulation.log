@@ -1,0 +1,4 @@
+RUN	simulations.GETBooking	getbooking	1622039301777	test api	3.6.0
+USER	get booking	START	1622039305080
+REQUEST		get booking request	1622039305162	1622039308731	KO	status.find.in(200,201,202,203,204), but actually found 404
+USER	get booking	END	1622039308816

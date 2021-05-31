@@ -1,0 +1,4 @@
+RUN	POSTBooking	postbooking	1622126546926	 	3.6.0
+USER	post booking scenario	START	1622126550143
+REQUEST		create booking request	1622126550283	1622126553880	KO	status.find.is(200), but actually found 500
+USER	post booking scenario	END	1622126553975

@@ -1,0 +1,41 @@
+RUN	POSTSimulation	postsimulation	1621876783579	add user	3.6.0
+USER	POST Scenario	START	1621876786986
+USER	POST Scenario	START	1621876786988
+USER	POST Scenario	START	1621876786981
+USER	POST Scenario	START	1621876786980
+USER	POST Scenario	START	1621876790111
+USER	POST Scenario	START	1621876786986
+USER	POST Scenario	START	1621876790110
+USER	POST Scenario	START	1621876786981
+USER	POST Scenario	START	1621876786983
+USER	POST Scenario	START	1621876790114
+REQUEST		add user request	1621876787153	1621876791064	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791064	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791073	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791073	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876790115	1621876791064	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791064	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791065	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876787153	1621876791064	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876790117	1621876791153	KO	status.find.is(200), but actually found 500
+REQUEST		add user request	1621876790112	1621876791152	KO	status.find.is(200), but actually found 500
+REQUEST		get user request	1621876794154	1621876794378	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794154	1621876794378	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794155	1621876794378	KO	status.find.is(200), but actually found 404
+USER	POST Scenario	END	1621876794389
+USER	POST Scenario	END	1621876794389
+USER	POST Scenario	END	1621876794390
+REQUEST		get user request	1621876794159	1621876794399	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794156	1621876794398	KO	status.find.is(200), but actually found 404
+USER	POST Scenario	END	1621876794400
+USER	POST Scenario	END	1621876794402
+REQUEST		get user request	1621876794154	1621876794404	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794159	1621876794405	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794154	1621876794394	KO	status.find.is(200), but actually found 404
+REQUEST		get user request	1621876794155	1621876794407	KO	status.find.is(200), but actually found 404
+USER	POST Scenario	END	1621876794406
+USER	POST Scenario	END	1621876794406
+USER	POST Scenario	END	1621876794407
+USER	POST Scenario	END	1621876794409
+REQUEST		get user request	1621876794160	1621876794411	KO	status.find.is(200), but actually found 404
+USER	POST Scenario	END	1621876794423

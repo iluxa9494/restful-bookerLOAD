@@ -1,0 +1,4 @@
+RUN	PUTSimulation	putsimulation	1621961759094	test api	3.6.0
+USER	PUT Scenario	START	1621961762537
+REQUEST		update booking	1621961762701	1621961766527	KO	status.find.in(200,201), but actually found 404
+USER	PUT Scenario	END	1621961766632

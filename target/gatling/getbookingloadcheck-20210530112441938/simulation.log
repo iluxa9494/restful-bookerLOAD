@@ -1,0 +1,46 @@
+RUN	simulations.GETBookingLoadCheck	getbookingloadcheck	1622373881938	 	3.6.0
+USER	get booking requests	START	1622373890062
+USER	get booking requests	START	1622373890059
+USER	get booking requests	START	1622373890058
+USER	get booking requests	START	1622373890061
+USER	get booking requests	START	1622373890059
+USER	get booking requests	START	1622373890059
+REQUEST		get booking request	1622373890109	1622373890124	KO	j.n.ConnectException: Connection refused
+REQUEST		get booking request	1622373890109	1622373890123	KO	j.n.ConnectException: Connection refused
+REQUEST		get booking request	1622373890109	1622373890124	KO	j.n.ConnectException: Connection refused
+REQUEST		get booking request	1622373890108	1622373890127	KO	j.n.ConnectException: Connection refused
+REQUEST		get booking request	1622373890109	1622373890125	KO	j.n.ConnectException: Connection refused
+REQUEST		get booking request	1622373890108	1622373890123	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373890158
+USER	get booking requests	END	1622373890158
+USER	get booking requests	END	1622373890158
+USER	get booking requests	END	1622373890158
+USER	get booking requests	END	1622373890158
+USER	get booking requests	END	1622373890158
+USER	get booking requests	START	1622373891048
+REQUEST		get booking request	1622373891049	1622373891052	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373891053
+USER	get booking requests	START	1622373892045
+REQUEST		get booking request	1622373892046	1622373892048	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373892049
+USER	get booking requests	START	1622373893047
+REQUEST		get booking request	1622373893047	1622373893049	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373893050
+USER	get booking requests	START	1622373894050
+REQUEST		get booking request	1622373894050	1622373894052	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373894052
+USER	get booking requests	START	1622373895047
+REQUEST		get booking request	1622373895048	1622373895050	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373895052
+USER	get booking requests	START	1622373896046
+REQUEST		get booking request	1622373896046	1622373896048	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373896048
+USER	get booking requests	START	1622373897047
+REQUEST		get booking request	1622373897048	1622373897049	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373897049
+USER	get booking requests	START	1622373898049
+REQUEST		get booking request	1622373898050	1622373898052	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373898053
+USER	get booking requests	START	1622373899046
+REQUEST		get booking request	1622373899046	1622373899047	KO	j.n.ConnectException: Connection refused
+USER	get booking requests	END	1622373899048

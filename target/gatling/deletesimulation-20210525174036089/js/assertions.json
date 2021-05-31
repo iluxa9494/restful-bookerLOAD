@@ -1,0 +1,10 @@
+{
+  "simulation": "DELETESimulation",
+  "simulationId": "deletesimulation",
+  "start": 1621964436089,
+  "description": "test api",
+  "scenarios": ["PUT Scenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	GETPing	getping	1622041111704	 	3.6.0
+USER	get ping scenario	START	1622041114828
+REQUEST		get ping request	1622041114942	1622041118703	KO	status.find.is(200), but actually found 201
+USER	get ping scenario	END	1622041118797

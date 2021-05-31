@@ -1,0 +1,31 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622134887888	 	3.6.0
+REQUEST		create auth token request	1622134891283	1622134898296	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134891282	1622134898297	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134891282	1622134898297	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134891282	1622134898295	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134893958	1622134898295	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134891282	1622134898295	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking: nodename nor servname provided, or not known
+REQUEST		create auth token request	1622134891282	1622134898296	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+REQUEST		create auth token request	1622134891282	1622134898296	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+USER	post auth create token scenario	END	1622134898333
+USER	post auth create token scenario	END	1622134898334
+USER	post auth create token scenario	END	1622134898334
+USER	post auth create token scenario	START	1622134891114
+USER	post auth create token scenario	START	1622134891115
+USER	post auth create token scenario	START	1622134891113
+USER	post auth create token scenario	START	1622134891113
+REQUEST		create auth token request	1622134898341	1622134898342	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+USER	post auth create token scenario	START	1622134898341
+USER	post auth create token scenario	START	1622134891114
+USER	post auth create token scenario	START	1622134891118
+USER	post auth create token scenario	START	1622134891114
+USER	post auth create token scenario	START	1622134893957
+REQUEST		create auth token request	1622134898345	1622134898345	KO	j.n.UnknownHostException: restful-booker.herokuapp.combooking
+USER	post auth create token scenario	START	1622134898344
+USER	post auth create token scenario	END	1622134898339
+USER	post auth create token scenario	END	1622134898339
+USER	post auth create token scenario	END	1622134898342
+USER	post auth create token scenario	END	1622134898343
+USER	post auth create token scenario	END	1622134898343
+USER	post auth create token scenario	END	1622134898343
+USER	post auth create token scenario	END	1622134898346

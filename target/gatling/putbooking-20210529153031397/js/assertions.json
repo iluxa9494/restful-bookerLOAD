@@ -1,0 +1,10 @@
+{
+  "simulation": "PUTBooking",
+  "simulationId": "putbooking",
+  "start": 1622302231397,
+  "description": "",
+  "scenarios": ["put scenario"],
+  "assertions": [
+
+  ]
+}

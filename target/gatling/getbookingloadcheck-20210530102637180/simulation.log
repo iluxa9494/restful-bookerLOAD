@@ -1,0 +1,46 @@
+RUN	simulations.GETBookingLoadCheck	getbookingloadcheck	1622370397180	 	3.6.0
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370405987
+USER	get booking requests	START	1622370406981
+REQUEST		get booking request	1622370406054	1622370407125	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+REQUEST		get booking request	1622370406055	1622370407126	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+REQUEST		get booking request	1622370406055	1622370407132	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+REQUEST		get booking request	1622370406054	1622370407127	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+REQUEST		get booking request	1622370406056	1622370407151	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+REQUEST		get booking request	1622370406056	1622370407132	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370407344
+USER	get booking requests	END	1622370407344
+USER	get booking requests	END	1622370407344
+USER	get booking requests	END	1622370407344
+USER	get booking requests	END	1622370407345
+USER	get booking requests	END	1622370407347
+REQUEST		get booking request	1622370406984	1622370407763	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370407766
+USER	get booking requests	START	1622370407979
+REQUEST		get booking request	1622370407981	1622370408747	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370408750
+USER	get booking requests	START	1622370408979
+REQUEST		get booking request	1622370408983	1622370409759	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370409762
+USER	get booking requests	START	1622370409979
+USER	get booking requests	START	1622370410975
+REQUEST		get booking request	1622370409983	1622370411575	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370411577
+REQUEST		get booking request	1622370410977	1622370411754	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370411756
+USER	get booking requests	START	1622370411978
+REQUEST		get booking request	1622370411980	1622370412757	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370412759
+USER	get booking requests	START	1622370412979
+REQUEST		get booking request	1622370412982	1622370413917	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370413922
+USER	get booking requests	START	1622370413978
+REQUEST		get booking request	1622370413981	1622370414766	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370414769
+USER	get booking requests	START	1622370414979
+REQUEST		get booking request	1622370414982	1622370415821	KO	jsonPath($.firstname).find.is(Jim), but actually found Sally
+USER	get booking requests	END	1622370415824

@@ -1,0 +1,46 @@
+RUN	simulations.GETBookingLoadCheck	getbookingloadcheck	1622371012494	 	3.6.0
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371020474
+USER	get booking requests	START	1622371021462
+REQUEST		get booking request	1622371020525	1622371021484	OK	 
+REQUEST		get booking request	1622371020524	1622371021482	OK	 
+REQUEST		get booking request	1622371020524	1622371021482	OK	 
+REQUEST		get booking request	1622371020525	1622371021482	OK	 
+REQUEST		get booking request	1622371020525	1622371021497	OK	 
+REQUEST		get booking request	1622371020524	1622371021482	OK	 
+USER	get booking requests	END	1622371021586
+USER	get booking requests	END	1622371021586
+USER	get booking requests	END	1622371021586
+USER	get booking requests	END	1622371021586
+USER	get booking requests	END	1622371021587
+USER	get booking requests	END	1622371021587
+REQUEST		get booking request	1622371021466	1622371022236	OK	 
+USER	get booking requests	END	1622371022237
+USER	get booking requests	START	1622371022465
+REQUEST		get booking request	1622371022468	1622371023386	OK	 
+USER	get booking requests	END	1622371023388
+USER	get booking requests	START	1622371023463
+REQUEST		get booking request	1622371023466	1622371024278	OK	 
+USER	get booking requests	END	1622371024281
+USER	get booking requests	START	1622371024465
+REQUEST		get booking request	1622371024467	1622371025233	OK	 
+USER	get booking requests	END	1622371025235
+USER	get booking requests	START	1622371025463
+REQUEST		get booking request	1622371025464	1622371026348	OK	 
+USER	get booking requests	END	1622371026350
+USER	get booking requests	START	1622371026465
+REQUEST		get booking request	1622371026466	1622371027234	OK	 
+USER	get booking requests	END	1622371027236
+USER	get booking requests	START	1622371027462
+REQUEST		get booking request	1622371027463	1622371028224	OK	 
+USER	get booking requests	END	1622371028226
+USER	get booking requests	START	1622371028466
+REQUEST		get booking request	1622371028470	1622371029362	OK	 
+USER	get booking requests	END	1622371029366
+USER	get booking requests	START	1622371029465
+REQUEST		get booking request	1622371029468	1622371030239	OK	 
+USER	get booking requests	END	1622371030242

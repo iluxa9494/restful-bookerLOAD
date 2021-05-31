@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GETBooking",
+  "simulationId": "getbooking",
+  "start": 1622136884875,
+  "description": "",
+  "scenarios": ["get booking"],
+  "assertions": [
+
+  ]
+}

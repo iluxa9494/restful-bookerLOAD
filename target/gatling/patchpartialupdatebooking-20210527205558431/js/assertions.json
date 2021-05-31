@@ -1,0 +1,10 @@
+{
+  "simulation": "PATCHPartialUpdateBooking",
+  "simulationId": "patchpartialupdatebooking",
+  "start": 1622148958431,
+  "description": "",
+  "scenarios": ["patch update scenario"],
+  "assertions": [
+
+  ]
+}

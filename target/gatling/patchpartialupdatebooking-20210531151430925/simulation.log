@@ -1,0 +1,4 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622474070925	 	3.6.0
+USER	patch update scenario	START	1622474073709
+REQUEST		partial update booking request	1622474073806	1622474077758	OK	 
+USER	patch update scenario	END	1622474077789

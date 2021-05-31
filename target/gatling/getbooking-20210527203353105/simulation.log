@@ -1,0 +1,4 @@
+RUN	simulations.GETBooking	getbooking	1622147633105	 	3.6.0
+USER	get booking	START	1622147636407
+REQUEST		get booking request	1622147636467	1622147640189	OK	 
+USER	get booking	END	1622147640252

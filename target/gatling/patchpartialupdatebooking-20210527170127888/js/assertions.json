@@ -1,0 +1,10 @@
+{
+  "simulation": "PATCHPartialUpdateBooking",
+  "simulationId": "patchpartialupdatebooking",
+  "start": 1622134887888,
+  "description": "",
+  "scenarios": ["post auth create token scenario"],
+  "assertions": [
+
+  ]
+}

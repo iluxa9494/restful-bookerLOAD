@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GETBookingFixedDurationLoadCheck",
+  "simulationId": "getbookingfixeddurationloadcheck",
+  "start": 1622474167128,
+  "description": "",
+  "scenarios": ["get booking requests fixed duration load"],
+  "assertions": [
+
+  ]
+}

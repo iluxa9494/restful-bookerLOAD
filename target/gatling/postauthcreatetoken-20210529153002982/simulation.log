@@ -1,0 +1,4 @@
+RUN	POSTAuthCreateToken	postauthcreatetoken	1622302202982	 	3.6.0
+USER	post auth create token scenario	START	1622302205974
+REQUEST		create auth token request	1622302206249	1622302207859	OK	 
+USER	post auth create token scenario	END	1622302207904

@@ -1,0 +1,4 @@
+RUN	DELETEBooking	deletebooking	1622137428465	 	3.6.0
+USER	delete scenario	START	1622137431531
+REQUEST		delete booking request	1622137431566	1622137435524	KO	status.find.in(200,201,202,203,204), but actually found 403
+USER	delete scenario	END	1622137435597

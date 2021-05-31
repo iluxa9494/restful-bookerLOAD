@@ -1,0 +1,10 @@
+{
+  "simulation": "DELETEBooking",
+  "simulationId": "deletebooking",
+  "start": 1622137387233,
+  "description": "",
+  "scenarios": ["delete scenario"],
+  "assertions": [
+
+  ]
+}

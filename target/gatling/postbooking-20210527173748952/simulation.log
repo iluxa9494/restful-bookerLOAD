@@ -1,0 +1,5 @@
+RUN	POSTBooking	postbooking	1622137068952	 	3.6.0
+USER	post booking scenario	START	1622137072106
+REQUEST		create booking request	1622137072276	1622137076305	OK	 
+REQUEST		get booking request	1622137081338	1622137081545	KO	status.find.in(200,201,202,203,204), but actually found 404
+USER	post booking scenario	END	1622137081582

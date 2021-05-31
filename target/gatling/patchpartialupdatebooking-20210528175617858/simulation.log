@@ -1,0 +1,4 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622224577858	 	3.6.0
+USER	patch update scenario	START	1622224581316
+REQUEST		partial update booking request	1622224581499	1622224585596	KO	status.find.is(200), but actually found 403
+USER	patch update scenario	END	1622224585667

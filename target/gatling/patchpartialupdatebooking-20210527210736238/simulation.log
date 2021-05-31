@@ -1,0 +1,5 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622149656238	 	3.6.0
+USER	patch update scenario	START	1622149659377
+REQUEST		create auth token request	1622149659567	1622149663236	OK	 
+REQUEST		partial update booking request	1622149666324	1622149666644	KO	status.find.is(200), but actually found 403
+USER	patch update scenario	END	1622149666665

@@ -1,0 +1,10 @@
+{
+  "simulation": "POSTSimulation",
+  "simulationId": "postsimulation",
+  "start": 1621865572081,
+  "description": "add user",
+  "scenarios": ["POST Scenario"],
+  "assertions": [
+
+  ]
+}

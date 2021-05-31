@@ -1,0 +1,10 @@
+RUN	simulations.GETBookingLoadCheck	getbookingloadcheck	1622370935666	 	3.6.0
+USER	get booking requests	START	1622370940049
+USER	get booking requests	START	1622370940058
+USER	get booking requests	START	1622370941064
+REQUEST		get booking request	1622370940089	1622370940951	KO	jsonPath($.firstname).find.is(Jim), but actually found Susan
+REQUEST		get booking request	1622370940089	1622370940947	KO	jsonPath($.firstname).find.is(Jim), but actually found Susan
+USER	get booking requests	END	1622370941171
+USER	get booking requests	END	1622370941171
+REQUEST		get booking request	1622370941078	1622370942079	KO	jsonPath($.firstname).find.is(Jim), but actually found Susan
+USER	get booking requests	END	1622370942082

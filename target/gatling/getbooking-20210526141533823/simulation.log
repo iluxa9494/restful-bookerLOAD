@@ -1,0 +1,4 @@
+RUN	simulations.GETbooking	getbooking	1622038533823	test api	3.6.0
+USER	get list	START	1622038537381
+REQUEST		get booking request	1622038537466	1622038541375	KO	status.find.is(200), but actually found 404
+USER	get list	END	1622038541475

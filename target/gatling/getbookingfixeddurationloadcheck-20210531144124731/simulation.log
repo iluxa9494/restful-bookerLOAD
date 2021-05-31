@@ -1,0 +1,46 @@
+RUN	simulations.GETBookingFixedDurationLoadCheck	getbookingfixeddurationloadcheck	1622472084731	 	3.6.0
+USER	get booking requests fixed duration load	START	1622472093041
+USER	get booking requests fixed duration load	START	1622472093042
+USER	get booking requests fixed duration load	START	1622472093041
+USER	get booking requests fixed duration load	START	1622472093041
+USER	get booking requests fixed duration load	START	1622472093042
+USER	get booking requests fixed duration load	START	1622472093042
+USER	get booking requests fixed duration load	START	1622472094029
+REQUEST		get booking request	1622472093088	1622472094101	OK	 
+REQUEST		get booking request	1622472093090	1622472094092	OK	 
+REQUEST		get booking request	1622472093090	1622472094103	OK	 
+REQUEST		get booking request	1622472093089	1622472094092	OK	 
+USER	get booking requests fixed duration load	END	1622472094160
+USER	get booking requests fixed duration load	END	1622472094160
+USER	get booking requests fixed duration load	END	1622472094160
+USER	get booking requests fixed duration load	END	1622472094168
+REQUEST		get booking request	1622472093090	1622472094231	OK	 
+USER	get booking requests fixed duration load	END	1622472094233
+REQUEST		get booking request	1622472093090	1622472094312	OK	 
+USER	get booking requests fixed duration load	END	1622472094316
+REQUEST		get booking request	1622472094029	1622472094910	OK	 
+USER	get booking requests fixed duration load	END	1622472094911
+USER	get booking requests fixed duration load	START	1622472095028
+REQUEST		get booking request	1622472095029	1622472095865	OK	 
+USER	get booking requests fixed duration load	END	1622472095867
+USER	get booking requests fixed duration load	START	1622472096032
+USER	get booking requests fixed duration load	START	1622472097030
+REQUEST		get booking request	1622472096032	1622472097575	OK	 
+USER	get booking requests fixed duration load	END	1622472097577
+REQUEST		get booking request	1622472097031	1622472097881	OK	 
+USER	get booking requests fixed duration load	END	1622472097883
+USER	get booking requests fixed duration load	START	1622472098030
+REQUEST		get booking request	1622472098031	1622472098877	OK	 
+USER	get booking requests fixed duration load	END	1622472098879
+USER	get booking requests fixed duration load	START	1622472099031
+REQUEST		get booking request	1622472099031	1622472099869	OK	 
+USER	get booking requests fixed duration load	END	1622472099871
+USER	get booking requests fixed duration load	START	1622472100029
+REQUEST		get booking request	1622472100030	1622472100866	OK	 
+USER	get booking requests fixed duration load	END	1622472100868
+USER	get booking requests fixed duration load	START	1622472101031
+REQUEST		get booking request	1622472101032	1622472101999	OK	 
+USER	get booking requests fixed duration load	END	1622472102002
+USER	get booking requests fixed duration load	START	1622472102029
+REQUEST		get booking request	1622472102030	1622472102975	OK	 
+USER	get booking requests fixed duration load	END	1622472102976

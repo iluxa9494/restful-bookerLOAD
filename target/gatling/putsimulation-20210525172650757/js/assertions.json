@@ -1,0 +1,10 @@
+{
+  "simulation": "PUTSimulation",
+  "simulationId": "putsimulation",
+  "start": 1621963610757,
+  "description": "test api",
+  "scenarios": ["PUT Scenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	simulations.GETBooking	getbooking	1622133818158	 	3.6.0
+USER	get booking	START	1622133821293
+REQUEST		get booking request	1622133821428	1622133864240	KO	status.find.in(200,201,202,203,204), but actually found 404
+USER	get booking	END	1622133864289

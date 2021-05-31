@@ -1,0 +1,4 @@
+RUN	simulations.GETBookingIDsGetData	getbookingidsgetdata	1622325896104	 	3.6.0
+USER	get booking ids	START	1622325899409
+REQUEST		get booking request	1622325899457	1622325903200	KO	jsonPath($.lastname).find.is(Brown), but actually found Jones
+USER	get booking ids	END	1622325903312

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GETSimulation",
+  "simulationId": "getsimulation",
+  "start": 1621877628023,
+  "description": "test api",
+  "scenarios": ["get list"],
+  "assertions": [
+
+  ]
+}

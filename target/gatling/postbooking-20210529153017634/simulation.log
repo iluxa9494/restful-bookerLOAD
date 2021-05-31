@@ -1,0 +1,4 @@
+RUN	POSTBooking	postbooking	1622302217634	 	3.6.0
+USER	post booking scenario	START	1622302219428
+REQUEST		create booking request	1622302219457	1622302220294	OK	 
+USER	post booking scenario	END	1622302220325

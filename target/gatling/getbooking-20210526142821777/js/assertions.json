@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GETBooking",
+  "simulationId": "getbooking",
+  "start": 1622039301777,
+  "description": "test api",
+  "scenarios": ["get booking"],
+  "assertions": [
+
+  ]
+}

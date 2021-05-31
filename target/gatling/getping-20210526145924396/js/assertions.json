@@ -1,0 +1,10 @@
+{
+  "simulation": "GETPing",
+  "simulationId": "getping",
+  "start": 1622041164396,
+  "description": "",
+  "scenarios": ["get ping scenario"],
+  "assertions": [
+
+  ]
+}

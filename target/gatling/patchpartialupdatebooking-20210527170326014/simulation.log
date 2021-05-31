@@ -1,0 +1,31 @@
+RUN	PATCHPartialUpdateBooking	patchpartialupdatebooking	1622135006014	 	3.6.0
+USER	patch update scenario	START	1622135009013
+USER	patch update scenario	START	1622135009015
+USER	patch update scenario	START	1622135009012
+USER	patch update scenario	START	1622135009012
+USER	patch update scenario	START	1622135011969
+USER	patch update scenario	START	1622135009013
+USER	patch update scenario	START	1622135011973
+USER	patch update scenario	START	1622135009015
+USER	patch update scenario	START	1622135009014
+USER	patch update scenario	START	1622135011977
+REQUEST		partial update booking request	1622135009195	1622135013037	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135011978	1622135013037	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009195	1622135013038	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009195	1622135013037	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009197	1622135013082	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135011970	1622135013037	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009197	1622135013038	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009195	1622135013053	KO	status.find.is(200), but actually found 403
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013096
+USER	patch update scenario	END	1622135013097
+REQUEST		partial update booking request	1622135011973	1622135013100	KO	status.find.is(200), but actually found 403
+REQUEST		partial update booking request	1622135009197	1622135013100	KO	status.find.is(200), but actually found 403
+USER	patch update scenario	END	1622135013102
+USER	patch update scenario	END	1622135013102

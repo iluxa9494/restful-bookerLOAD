@@ -1,0 +1,10 @@
+{
+  "simulation": "POSTBooking",
+  "simulationId": "postbooking",
+  "start": 1622126546926,
+  "description": "",
+  "scenarios": ["post booking scenario"],
+  "assertions": [
+
+  ]
+}

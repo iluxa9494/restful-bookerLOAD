@@ -1,0 +1,5 @@
+RUN	POSTBooking	postbooking	1622132598688	 	3.6.0
+USER	post booking scenario	START	1622132601686
+REQUEST		create auth token request	1622132601861	1622132605488	OK	 
+REQUEST		create booking request	1622132608537	1622132608735	OK	 
+USER	post booking scenario	END	1622132608746

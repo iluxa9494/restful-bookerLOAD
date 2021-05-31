@@ -1,0 +1,4 @@
+RUN	DELETESimulation	deletesimulation	1621964436089	test api	3.6.0
+USER	PUT Scenario	START	1621964439413
+REQUEST		delete booking	1621964439495	1621964443266	KO	status.find.in(200,201,202,203,204), but actually found 403
+USER	PUT Scenario	END	1621964443355

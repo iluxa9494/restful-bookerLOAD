@@ -1,0 +1,4 @@
+RUN	DELETEBooking	deletebooking	1622301311177	 	3.6.0
+USER	delete scenario	START	1622301314646
+REQUEST		delete booking request	1622301314711	1622301318428	OK	 
+USER	delete scenario	END	1622301318510

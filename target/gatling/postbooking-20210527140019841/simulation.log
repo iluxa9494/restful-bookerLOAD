@@ -1,0 +1,5 @@
+RUN	POSTBooking	postbooking	1622124019841	 	3.6.0
+USER	post booking scenario	START	1622124022549
+REQUEST		create auth token request	1622124022635	1622124026457	OK	 
+REQUEST		create booking request	1622124036496	1622124036697	KO	status.find.is(200), but actually found 500
+USER	post booking scenario	END	1622124036746

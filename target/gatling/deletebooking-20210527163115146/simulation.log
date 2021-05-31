@@ -1,0 +1,5 @@
+RUN	DELETEBooking	deletebooking	1622133075146	 	3.6.0
+USER	delete scenario	START	1622133077896
+REQUEST		create auth token request	1622133078006	1622133081994	OK	 
+REQUEST		delete booking request	1622133085051	1622133085252	KO	status.find.in(200,201,202,203,204), but actually found 403
+USER	delete scenario	END	1622133085305
